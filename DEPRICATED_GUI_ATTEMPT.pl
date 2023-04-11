@@ -55,7 +55,7 @@ on_click_guess(Window, Solution, Display, Guessed, IncorrectGuessed, Attempts) :
 
      )
           ;
-writeln("poo").
+writeln("No attempts left!").
      ).
 
 
